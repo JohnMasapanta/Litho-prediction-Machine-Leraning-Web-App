@@ -7,7 +7,6 @@ dependencies:
   - numpy
   - pandas
   - scikit-learn
-  - matplotlib
   - pip:
     - pickleshare
     - tensorflow==2.5.0
