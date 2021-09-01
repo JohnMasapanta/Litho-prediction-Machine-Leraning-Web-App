@@ -10,7 +10,6 @@ dependencies:
   - scikit-learn
   - pip:
     - matplotlib
-    - pyplot
     - pickleshare
     - tensorflow==2.5.0
     - streamlit
