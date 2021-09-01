@@ -1,0 +1,16 @@
+name: LithoApp
+
+dependencies:
+  - python=3.9.6
+  - pip>=19.0
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pip:
+    - tensorflow==2.5.0
+    - streamlit
+    - catboost
+    - xgboost
+    - lightgbm
